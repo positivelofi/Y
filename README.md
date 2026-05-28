@@ -128,7 +128,7 @@ The joystick position defines three weights `(wYoog, wYuno, wYX7)` with `wYoog +
 
 ## Credits
 
-Developed by Julien Catherine  
+A Positve Lofi project by Yuwa  
 Engine concepts inspired by Moog, Roland, and Yamaha synthesis architectures  
 Built with Web Audio API — no frameworks, no dependencies
 
